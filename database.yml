@@ -1,0 +1,7 @@
+development:
+    adapter: mysql2
+    database: app
+    host: localhost
+    username: root
+    password: candidate
+    encoding: utf8
